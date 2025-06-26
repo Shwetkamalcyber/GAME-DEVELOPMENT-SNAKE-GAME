@@ -68,3 +68,4 @@ This SFML-based Snake Game is a well-structured and fun-to-play application that
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/dc7130f6-97d8-4bad-b862-c6a97d6a2edb)
